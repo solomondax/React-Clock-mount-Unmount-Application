@@ -1,0 +1,25 @@
+.main-container {
+  background-color: rgb(226, 235, 232);
+  display: flex;
+  justify-content: center;
+
+  height: 100vh;
+}
+
+button {
+  height: 35px;
+  width: 300px;
+  background-color: rgb(14, 93, 229);
+  border: none;
+  border-radius: 3px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #ffffff;
+}
+.sub-container {
+  text-align: center;
+  border: solid 5px black;
+  height: 400px;
+  width: 500px;
+  margin-top: 50px;
+}

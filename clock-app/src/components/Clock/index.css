@@ -1,0 +1,14 @@
+.container {
+    background-color: gray;
+    height: 250px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    flex-direction: column;
+  }
+  p {
+    font-size: 30px;
+  }
+  
